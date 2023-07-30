@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NabeelAmir28
-- 👀 I’m interested in full stack developer
+- 👋 Hi, I’m Nabeel Amir
+- 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nabeelamir2002@gmail.com
 
 <!---
